@@ -50,7 +50,7 @@ class VacuumEnvironment:
     def all_clean(self):
         return all(state == 'clean' for state in self.rooms.values())
 
-# Visualization function remains the same
+# Visualization
 def visualize_environment(env, ax):
     ax.clear()
     room_size = 1 / max(env.grid_size)
@@ -71,7 +71,7 @@ def visualize_environment(env, ax):
     ax.axis('off')
     plt.draw()
 
-# Simulation function remains the same
+# Simulation function
 def simulate_vacuum(grid_size=(3, 3)):
     env = VacuumEnvironment(grid_size=grid_size)
     fig, ax = plt.subplots()
