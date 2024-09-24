@@ -60,3 +60,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 Inspired by artificial intelligence and robotics concepts.
+
+## Video Demo
+![Screen Recording](./Demo.mp4)
