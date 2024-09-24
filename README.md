@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Inspired by artificial intelligence and robotics concepts.
 
 ## Video Demo
-![Screen Recording](./Demo.mp4)
+![Screen Recording](https://raw.githubusercontent.com/David-Okello/Vacuum_Cleaner_World/main/Demo.mp4)
